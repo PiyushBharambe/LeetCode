@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PiyushBharambe/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0239-sliding-window-maximum](https://github.com/PiyushBharambe/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Trie
 |  |
 | ------- |
@@ -45,4 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PiyushBharambe/LeetCode/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PiyushBharambe/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PiyushBharambe/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PiyushBharambe/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PiyushBharambe/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
