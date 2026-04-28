@@ -9,5 +9,3 @@ obj = Solution()
 print(obj.isPalindrome(121))
 
 # leets etup
-
-
