@@ -12,16 +12,17 @@ class Solution {
     public int getDecimalValue(ListNode head) {
         ListNode current = head;
         int result = 0;
-        StringBuilder s = new StringBuilder();
+        // StringBuilder s = new StringBuilder();
 
         while(current !=null){
-            s.append(current.val);
+            result = result * 2 + (current.val);
+            // s.append(current.val);
             current = current.next;
         }
 
-        for(int i=0;i<s.length();i++){
-            result = result * 2 + (s.charAt(i) - '0');
-        }
+        // for(int i=0;i<s.length();i++){
+        //     result = result * 2 + (s.charAt(i) - '0');
+        // }
 
         return result;
 
