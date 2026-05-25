@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PiyushBharambe/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/PiyushBharambe/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PiyushBharambe/LeetCode/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/PiyushBharambe/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PiyushBharambe/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PiyushBharambe/LeetCode/tree/master/0013-roman-to-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PiyushBharambe/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/PiyushBharambe/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PiyushBharambe/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/PiyushBharambe/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/PiyushBharambe/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/PiyushBharambe/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Trie
 |  |
 | ------- |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PiyushBharambe/LeetCode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/PiyushBharambe/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
